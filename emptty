@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# source .profile and start Pipewire
+. /home/rush/.profile
+pipewire &
+pipewire-pulse &
+wireplumber &
+
+# Exports
+export EDITOR=micro
+export BROWSER=firefox
+
+# Launch desktop using dbus-launch
+exec dbus-launch budgie-desktop
