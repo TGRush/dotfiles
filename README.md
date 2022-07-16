@@ -1,3 +1,6 @@
+## [I have migrated this repository to Codeberg](https://codeberg.org/TGRush/dotfiles)
+
+<details><summary>Old README</summary>
 # This is my Dotfiles, and stuff
 ### uh yeah, I got no idea if I'm doing this right...
 
@@ -26,3 +29,4 @@ I don't remember everything I installed, though I'll try my best to list everyth
 ## Wallpaper
 [Download](https://dl.uploadgram.me/627d787e7d703g)
 Credits: [Pawel Czerwinski on Unsplash](https://unsplash.com/@pawel_czerwinski)
+</details>
